@@ -4,4 +4,4 @@ I did a mini projects while studing it
 2. Qr generator
 3. Phonebook
 4. Word Geuess game
-5. 
+   
